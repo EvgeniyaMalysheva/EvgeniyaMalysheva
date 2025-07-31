@@ -2,7 +2,7 @@
 Меня зовут Евгения.</br>
 <table width="100%" border='0'>
    <tr> 
-    <td width="30%" valign="bottom"><img src="/images/nngasu.jpg"></td><td valign="middle">Нижегородский архитектурно-строительный университет</br>Факультет информационных систем и технологий</br>Инженер</td></tr>
+    <td width="30%" align="center" valign="bottom"><img src="/images/nngasu.png"></td><td valign="middle">Нижегородский архитектурно-строительный университет</br>Факультет информационных систем и технологий</br>Инженер</td></tr>
     <tr><td width="30%" valign="bottom"><img src="/images/qa-guru80.png"></td><td valign="middle">Школа инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a></br>Курс по автоматизации тестирования на Java</td></tr>
    </tr>
   </table>
