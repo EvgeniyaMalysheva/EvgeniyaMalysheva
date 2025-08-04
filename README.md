@@ -8,7 +8,8 @@
   </table>
   </br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniyaMalysheva)](https://github.com/EvgeniyaMalysheva/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniyaMalysheva)
+  
 
 ## Дипломный проект
 Реализован во время обучения в Школе инженеров по автоматизации тестирования <a target="_blank" href="https://qa.guru">qa.guru</a>
